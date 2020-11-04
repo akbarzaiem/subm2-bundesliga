@@ -1,0 +1,22 @@
+{
+    "name": "Bundesliga Jerman",
+    "short_name": "Bundesliga",
+    "description": "Klasemen, tim",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#b9151b",
+    "theme_color": "#b9151b",
+    "gcm_sender_id": "863728007042",
+    "icons": [
+        {
+            "src": "icon1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
